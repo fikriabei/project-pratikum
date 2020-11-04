@@ -19,7 +19,7 @@ KELAS : TI.20.A.1
 ### Pertemuan 5 - Latihan
 
 Pada pertemuan 5 bahasa pemograman, saya diberi soal untuk latihan oleh Dosen untuk membuat Aplikasi Biodata dengan python Seperti gambar dibawah <br>
-![pratikum](gambar/latihan5.PNG)
+![project-pratikum](pratikum/latihan5.PNG)
 Saat ini saya akan menjelaskan hasil dari tugas tersebut. <br>
 Berikut *source code* nya atau klik berikut ([latihan 5](tugas5.py)): <br>
 
